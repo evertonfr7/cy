@@ -1,0 +1,23 @@
+{
+  "name": "cy",
+  "version": "1.0.0",
+  "description": "Cypress is a JavaScript library for writing UI tests in Node.js and the browser. Repository for the course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evertonfr7/cy.git"
+  },
+  "keywords": [],
+  "author": "Everton Fr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evertonfr7/cy/issues"
+  },
+  "homepage": "https://github.com/evertonfr7/cy#readme",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
+}
